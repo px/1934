@@ -10,7 +10,7 @@ Perl has been around for hundreds of years. A fresh sense of entrepenurialism is
 
 An ideal called "NETWORK NEUTRALITY" is thought up. 
 
-Companies currently communicate with each other and the United States Government at high-speed using the United States Postal Service via Morse Code output with a popular Comic Sans font on 85 bright white 8.5" x 11" sized paper.
+The FCC dictates that individuals and companies must communicate with each other and the United States Government at high-speed using the United States Postal Service via standarized Morse Code output with a popular Comic Sans font on 85 bright white 8.5" x 11" sized paper.
 
 Some people choose to illegally connect personal computers together, forming ad-hoc networks through the airwaves and strung along the same electric poles provided by the electric monopoly, sharing information at the speed of electromagnetism.
 
@@ -30,10 +30,10 @@ Clone this repo.
 
 Install cpanm, and [Convert::Morse](http://search.cpan.org/dist/Convert-Morse/lib/Convert/Morse.pm) CPAN module.
 
-I personally about to use `cpan` directly, but even the [cpan.org website](http://www.cpan.org/modules/INSTALL.html) says to use `cpanm`.
+I was personally about to use `cpan` directly, but even the [cpan.org website](http://www.cpan.org/modules/INSTALL.html) says to use `cpanm`.
 
 
-    # this will take a minute or two, choose the local installation.
+    # this will take a minute or two, choose the local installation. "local::lib"
     cpan App::cpanminus
     # grab the CPAN module
     cpanm Convert::Morse
